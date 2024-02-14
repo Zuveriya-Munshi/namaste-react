@@ -1,0 +1,27 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuveriya-Munshi/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Zuveriya Munshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zuveriya-Munshi/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Zuveriya-Munshi/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
